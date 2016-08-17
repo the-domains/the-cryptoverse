@@ -1,0 +1,31 @@
+name: The Cryptoverse
+favicon: null
+layout_spectrum: 0.7872692905366421
+typography_spectrum: 0.5356969174463302
+title: >-
+  Your regular dose of news and commentary on Bitcoin, cryptocurrencies and
+  blockchains.
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7128382488153875
+  lightness: 0.4648773828521371
+  saturation: 0.8791505002882332
+  rhythmicContrast: 0.2094391982536763
+purpose: []

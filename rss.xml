@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Your regular dose of news and commentary on Bitcoin, cryptocurrencies and blockchains.]]></title>
+        <description><![CDATA[Your regular dose of news and commentary on Bitcoin, cryptocurrencies and blockchains.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 16:54:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Denver Hosts 2nd Annual Crypto Cannabis Conference (The Cryptoverse #70) </p>]]></description>
+            <link>undefineddenver-hosts-2nd-annual-crypto-cannabis-conference-the-cryp/index.html</link>
+            <guid isPermaLink="false">989d94e8-98eb-44e7-aabb-96e7842bcf9c</guid>
+            <pubDate>Wed, 17 Aug 2016 16:54:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
